@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "ameli": "git@github.com:konnectors/cozy-konnector-ameli.git",
+    "malakoffmederic": "git@github.com:konnectors/cozy-konnector-malakoffmederic.git"
+  }
+}
