@@ -64,7 +64,7 @@
     "malentille": "git@github.com:konnectors/malentille",
     "mediapart": "git@github.com:konnectors/mediapart",
     "mgen": "git@github.com:konnectors/cozy-konnector-mgen",
-    "micro": "git@github.com:konnectors/net-entreprise-micro",
+    "net-entreprise-micro": "git@github.com:konnectors/net-entreprise-micro",
     "misterauto": "git@github.com:konnectors/misterauto",
     "mondediplo": "git@github.com:konnectors/mondediplo",
     "monoprix": "git@github.com:konnectors/monoprix",
