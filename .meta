@@ -97,6 +97,7 @@
     "splitwise": "git@github.com:konnectors/splitwise",
     "stickersdiscount": "git@github.com:konnectors/stickersdiscount",
     "tagandpass": "git@github.com:konnectors/tagandpass",
+    "template": "git@github.com:konnectors/cozy-konnector-template.git"
     "theoldreader": "git@github.com:konnectors/cozy-konnector-theoldreader",
     "thomann": "git@github.com:konnectors/thomann",
     "toutatice": "git@github.com:konnectors/toutatice",
@@ -110,6 +111,6 @@
     "virgin-mobile": "git@github.com:konnectors/cozy-konnector-virgin-mobile",
     "wanimo": "git@github.com:konnectors/wanimo",
     "zalando": "git@github.com:konnectors/zalando",
-    "zooplus": "git@github.com:konnectors/zooplus"
+    "zooplus": "git@github.com:konnectors/zooplus",
   }
 }
