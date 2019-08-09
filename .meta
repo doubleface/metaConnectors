@@ -108,6 +108,7 @@
     "vinciautoroute": "git@github.com:konnectors/vinciautoroute",
     "wanimo": "git@github.com:konnectors/wanimo",
     "zalando": "git@github.com:konnectors/zalando",
-    "zooplus": "git@github.com:konnectors/zooplus"
+    "zooplus": "git@github.com:konnectors/zooplus",
+    "cic": "git@github.com:konnectors/cic.git"
   }
 }
