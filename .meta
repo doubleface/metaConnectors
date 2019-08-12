@@ -110,6 +110,7 @@
     "zalando": "git@github.com:konnectors/zalando",
     "zooplus": "git@github.com:konnectors/zooplus",
     "cic": "git@github.com:konnectors/cic.git",
-    "fortuneo": "git@github.com:konnectors/fortuneo.git"
+    "fortuneo": "git@github.com:konnectors/fortuneo.git",
+    "boursorama": "git@github.com:konnectors/boursorama.git"
   }
 }
