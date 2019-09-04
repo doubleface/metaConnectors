@@ -71,6 +71,7 @@
     "mondediplo": "git@github.com:konnectors/mondediplo",
     "monoprix": "git@github.com:konnectors/monoprix",
     "msf": "git@github.com:konnectors/msf",
+    "n26": "git@github.com:konnectors/n26.git",
     "nespresso": "git@github.com:konnectors/nespresso",
     "net-entreprise-micro": "git@github.com:konnectors/net-entreprise-micro",
     "netflix": "git@github.com:konnectors/netflix",
@@ -112,7 +113,6 @@
     "vinciautoroute": "git@github.com:konnectors/vinciautoroute",
     "wanimo": "git@github.com:konnectors/wanimo",
     "zalando": "git@github.com:konnectors/zalando",
-    "zooplus": "git@github.com:konnectors/zooplus",
-    "n26": "git@github.com:orandin/cozy-konnector-bank-n26.git"
+    "zooplus": "git@github.com:konnectors/zooplus"
   }
 }
