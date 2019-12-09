@@ -94,6 +94,7 @@
     "scalingo": "git@github.com:konnectors/scalingo",
     "sfr": "git@github.com:konnectors/sfr",
     "showroomprive": "git@github.com:konnectors/showroomprive",
+    "silae": "git@github.com:konnectors/silae.git",
     "skypaper": "git@github.com:konnectors/skypaper",
     "sncf": "git@github.com:konnectors/cozy-konnector-sncf",
     "sosh": "git@github.com:konnectors/cozy-konnector-sosh",
