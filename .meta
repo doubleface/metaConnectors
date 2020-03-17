@@ -89,6 +89,7 @@
     "pajemploi": "git@github.com:konnectors/cozy-konnector-pajemploi",
     "paybyphone": "git@github.com:konnectors/paybyphone",
     "payfit": "git@github.com:konnectors/cozy-konnector-payfit",
+    "poleemploi": "git@github.com:konnectors/poleemploi",
     "planeteoui": "git@github.com:konnectors/planeteoui",
     "probikeshop": "git@github.com:konnectors/probikeshop",
     "productboard": "git@github.com:konnectors/productboard",
