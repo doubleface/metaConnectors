@@ -77,6 +77,7 @@
     "monoprix": "git@github.com:konnectors/monoprix",
     "moodle-epfl": "git@github.com:konnectors/moodle-epfl",
     "msf": "git@github.com:konnectors/msf",
+    "nalo": "git@github.com:konnectors/nalo.git",
     "n26": "git@github.com:konnectors/n26.git",
     "nespresso": "git@github.com:konnectors/nespresso",
     "net-entreprise-micro": "git@github.com:konnectors/net-entreprise-micro",
